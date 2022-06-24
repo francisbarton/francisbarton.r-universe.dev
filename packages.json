@@ -1,0 +1,22 @@
+[
+  {
+    "package": "xstatic",
+    "url": "https://github.com/francisbarton/xstatic"
+  },
+  {
+    "package": "boundr",
+    "url": "https://github.com/francisbarton/boundr"
+  },
+  {
+    "package": "tapioca",
+    "url": "https://github.com/francisbarton/tapioca"
+  },
+  {
+    "package": "mapirosa",
+    "url": "https://github.com/francisbarton/mapirosa"
+  },
+  {
+    "package": "msoahexmap",
+    "url": "https://github.com/francisbarton/msoahexmap"
+  }
+]
