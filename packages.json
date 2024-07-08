@@ -8,16 +8,8 @@
     "url": "https://codeberg.org/francisbarton/boundr"
   },
   {
-    "package": "tapioca",
-    "url": "https://github.com/francisbarton/tapioca"
-  },
-  {
     "package": "mapirosa",
     "url": "https://github.com/francisbarton/mapirosa"
-  },
-  {
-    "package": "msoahexmap",
-    "url": "https://github.com/francisbarton/msoahexmap"
   },
   {
     "package": "shadowpop",
