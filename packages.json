@@ -1,15 +1,23 @@
 [
   {
-    "package": "xstatic",
-    "url": "https://github.com/francisbarton/xstatic"
-  },
-  {
     "package": "boundr",
     "url": "https://codeberg.org/francisbarton/boundr"
   },
   {
     "package": "mapirosa",
     "url": "https://github.com/francisbarton/mapirosa"
+  },
+  {
+    "package": "skittles",
+    "url": "https://github.com/francisbarton/skittles"
+  },
+  {
+    "package": "xstatic",
+    "url": "https://github.com/francisbarton/xstatic"
+  },
+  {
+    "package": "lettern",
+    "url": "https://github.com/francisbarton/lettern"
   },
   {
     "package": "shadowpop",
